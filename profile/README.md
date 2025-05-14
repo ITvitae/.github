@@ -1,6 +1,6 @@
-## ITvitae
+> Ben je op zoek naar [oriëntatie of extra studie materiaal?](https://itvitae.github.io/) - [Aanmelden of meer weten?](https://itvitae.nl)
 
-> Ben je op zoek naar onze oriëntatie materialen of extra studie materiaal? Gan dan naar: [itvitae.github.io/](https://itvitae.github.io/). Aanmelden of meer weten? Ga dan naar: [itvitae.nl/](https://itvitae.nl).
+<div align="center"><img style="margin: auto;" src="../logo-footer-transp.png"></div>
 
 ## About ITvitae
 
